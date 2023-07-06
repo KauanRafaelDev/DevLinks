@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* height: 712px; Pode-se desprezar a altura, pois no CSS ela se adapta ao conteúdo inserido, deixando a página mais fluida*/
 
   /* margin: auto; Margem de todos os lados juntos */
